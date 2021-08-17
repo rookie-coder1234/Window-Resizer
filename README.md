@@ -53,30 +53,23 @@ def setsize():
 def size150():
     Screen.geometry("150x150")
 
-
 def size200():
     Screen.geometry("200x200")
-
 
 def size300():
     Screen.geometry("300x300")
 
-
 def size400():
     Screen.geometry("400x400")
-
 
 def size500():
     Screen.geometry("500x500")
 
-
 def size600():
     Screen.geometry("600x600")
 
-
 def size700():
     Screen.geometry("700x700")
-
 
 def size800():
     Screen.geometry("800x800")
