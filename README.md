@@ -4,6 +4,7 @@
 
 ## Full Code
 '''python
+
 from tkinter import *
 from tkinter import ttk
 from ttkthemes import themed_tk as tk
