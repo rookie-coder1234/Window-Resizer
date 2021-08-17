@@ -3,7 +3,6 @@
 > *I Hope You Will Improve This Project As I Am A Beginner And Learning Python*
 
 ## Full Code
-'''
-python
+"""python
 
-'''
+"""
