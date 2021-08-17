@@ -26,20 +26,16 @@ width = ttk.Entry(Screen)
 height = ttk.Entry(Screen)
 
 def setsize():
-    # Setting Global Variables
     global inputval
 
-    # Getting The User Input
     screen_width = width.get()
     screen_height = height.get()
     width_count = len((screen_width))
     height_count = len((screen_height))
 
-    # Deleting InputField Data To Make Space For New Inputs
     width.delete(0, END)
     height.delete(0, END)
 
-    # Error Handling
     if width_count == 0:
         inputval = True
     elif height_count == 0:
